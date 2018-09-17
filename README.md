@@ -6,8 +6,19 @@ We can solve this problem by first three methods
 4) Bottom Up DP ->  As our Maximum Byte size is very large no so can't use Bottom up
 
 
+************************************
 //To compile 
-$ g++ Recursive.cpp --o Recursive
+$ g++ Bitmasking.cpp -o Bitmasking
 
 //To run
-$ ./Recursive
+$ ./Bitmasking
+***********************************
+
+
+***********************************
+//To compile 
+$ g++ recursive.cpp -o recursive
+
+//To run
+$ ./recursive
+***********************************
