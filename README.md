@@ -1,1 +1,0 @@
-# BitFlyer Optimal Minning
